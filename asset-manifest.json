@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/React_CRUDS/static/css/main.d9218917.css",
+    "main.js": "/React_CRUDS/static/js/main.38b859cf.js",
+    "static/media/fa-solid-900.ttf": "/React_CRUDS/static/media/fa-solid-900.b48ad290d0335879a92b.ttf",
+    "static/media/fa-brands-400.ttf": "/React_CRUDS/static/media/fa-brands-400.f9ee61fab3c11e2f3ed3.ttf",
+    "static/media/fa-solid-900.woff2": "/React_CRUDS/static/media/fa-solid-900.66104b766c3d0462b3c5.woff2",
+    "static/media/fa-brands-400.woff2": "/React_CRUDS/static/media/fa-brands-400.e1a247a5ef41e1975742.woff2",
+    "static/media/fa-regular-400.ttf": "/React_CRUDS/static/media/fa-regular-400.abf801b7acb6705a15ad.ttf",
+    "static/media/fa-regular-400.woff2": "/React_CRUDS/static/media/fa-regular-400.639d2000c1ece92eaec8.woff2",
+    "static/media/fa-v4compatibility.ttf": "/React_CRUDS/static/media/fa-v4compatibility.f601162ae669f88823a3.ttf",
+    "static/media/fa-v4compatibility.woff2": "/React_CRUDS/static/media/fa-v4compatibility.745989aab0d69cab7e70.woff2",
+    "index.html": "/React_CRUDS/index.html",
+    "main.d9218917.css.map": "/React_CRUDS/static/css/main.d9218917.css.map",
+    "main.38b859cf.js.map": "/React_CRUDS/static/js/main.38b859cf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d9218917.css",
+    "static/js/main.38b859cf.js"
+  ]
+}
